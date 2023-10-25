@@ -7,7 +7,6 @@ I'm focused on pursuing a career as a Front-End Developer and aspire to excel in
 - 🧪 **Testing and Quality Assurance**: Ensuring software reliability through comprehensive testing methodologies, automated testing, and meticulous bug tracking.
 - 🔍 **Quality Assurance (QA)**: Becoming proficient in QA processes, including test planning, test case design, and ensuring product quality.
 - 📊 **Business Analysis (BA)**: Gaining insights into business needs, requirements analysis, and contributing to effective project management and solutions.
-
 I'm dedicated to honing my skills and knowledge in these areas, and I'm excited about collaborating with professionals who share a passion for front-end development and the software quality domain. Let's work together to make technology work better for everyone!
 
 ## 🌐 Socials:

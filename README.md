@@ -13,10 +13,10 @@ I'm dedicated to honing my skills and knowledge in these areas, and I'm excited 
 I'm a Software Engineering student aspiring to become a Front-End Developer with a strong interest in Testing (Tester), Quality Assurance (QA), and Business Analysis (BA). My goals include:
 
 - 🌐 Front-End Development: Crafting visually appealing and user-friendly web applications with HTML, CSS, and JavaScript, and modern web frameworks.
-- 🧪 Testing and QA: Ensuring software reliability through comprehensive testing methodologies and meticulous bug tracking.
+- 🧪 Testing and QA: Ensuring software reliability through comprehensive testing methodologies and meticulous bug tracking, automated testing, including test planning, test case design, and ensuring product quality.
 - 🔍 Business Analysis: Gaining insights into business needs and contributing to effective project management.
   
-I'm committed to continuously improving my skills in these areas and eager to collaborate with like-minded professionals. Together, let's enhance the tech world for all!
+I'm dedicated to honing my skills and knowledge in these areas, and I'm excited about collaborating with professionals who share a passion for front-end development and the software quality domain. Let's work together to make technology work better for everyone!
 
 
 

@@ -2,7 +2,7 @@
 👨‍🎓 Software Engineering Student @ FPT University 📚<br><br>👋 Welcome to my GitHub! I'm a passionate student pursuing a degree in Computer Science at FPT University. My journey in the world of technology is just beginning, and I'm here to share my coding adventures and projects with the GitHub community.<br><br>🌟 My Interests:<br>- 🌐 Web Development<br>- 💻 Software Engineering<br><br>🚀 I'm always eager to learn and collaborate on exciting projects. If you have any suggestions, ideas, or just want to connect, feel free to reach out. Let's code together and make the tech world a better place! 🚀
 
 ## 🎯 Career Goals
-I'm focused on pursuing a career as a Front-End Developer and aspire to excel in roles related to testing, quality assurance (QA), and business analysis (BA). My professional objectives include:
+I'm focused on pursuing a career as a Front-End Developer and aspire to excel in roles related to Testing (Tester), Quality Assurance (QA), and Business Bnalysis (BA). My professional objectives include:
 - 🌐 **Front-End Development**: Crafting visually stunning and user-friendly web applications, with expertise in HTML, CSS, JavaScript, and modern web frameworks.
 - 🧪 **Testing and Quality Assurance**: Ensuring software reliability through comprehensive testing methodologies, automated testing, and meticulous bug tracking.
 - 🔍 **Quality Assurance (QA)**: Becoming proficient in QA processes, including test planning, test case design, and ensuring product quality.

@@ -8,6 +8,17 @@ I'm focused on pursuing a career as a Front-End Developer and aspire to excel in
 - 🔍 **Quality Assurance (QA)**: Becoming proficient in QA processes, including test planning, test case design, and ensuring product quality.
 - 📊 **Business Analysis (BA)**: Gaining insights into business needs, requirements analysis, and contributing to effective project management and solutions.<br><br>
 I'm dedicated to honing my skills and knowledge in these areas, and I'm excited about collaborating with professionals who share a passion for front-end development and the software quality domain. Let's work together to make technology work better for everyone!
+## 🎯 Career Goals
+
+I'm a Software Engineering student aspiring to become a Front-End Developer with a strong interest in Testing (Tester), Quality Assurance (QA), and Business Analysis (BA). My goals include:
+
+- 🌐 Front-End Development: Crafting visually appealing and user-friendly web applications with HTML, CSS, and JavaScript, and modern web frameworks.
+- 🧪 Testing and QA: Ensuring software reliability through comprehensive testing methodologies and meticulous bug tracking.
+- 🔍 Business Analysis: Gaining insights into business needs and contributing to effective project management.
+  
+I'm committed to continuously improving my skills in these areas and eager to collaborate with like-minded professionals. Together, let's enhance the tech world for all!
+
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/zanef.8) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zanep_8) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zanep08) 
